@@ -1,7 +1,7 @@
 .footer-area {
   position: relative;
   z-index: 4;
-  background-color: #607d8b;
+  background-color: #001441;
 }
 
 .copywrite-area {
@@ -9,7 +9,7 @@
   width: 100%;
   display: flex;
   justify-content: center;
-  align-items: flex-end;
+  align-items: center;
 }
 
 .copywrite-text {
