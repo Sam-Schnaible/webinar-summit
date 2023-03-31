@@ -1,0 +1,14 @@
+.banner-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 300px;
+}
+
+.banner-name {
+  font-family: 'Bebas Neue', cursive;
+  /* font-weight: 600; */
+  font-size: 12vw;
+  color: white;
+  margin-top: 160px;
+}

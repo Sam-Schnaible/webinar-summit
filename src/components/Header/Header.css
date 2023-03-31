@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  color: white;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+  padding: 0 20px;
+  background-color: #1a1a1a;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  font-size: 30px;
+  font-family: 'Your Font', sans-serif;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 10px;
+  background-color: #2724be;
+  border-radius: 20px;
+  cursor: pointer;
+  color: white;
+}
+
+.nav-item.sticky {
+  position: fixed;
+  top: 0;
+  right: 20px;
+  margin-top: 10px;
+  z-index: 1;
+}

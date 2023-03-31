@@ -1,3 +1,9 @@
+body {
+  background-image: url('./assets/crowd-background.jpeg');
+  background-size: cover;
+  background-position: center center;
+}
+
 .App {
   text-align: center;
 }
