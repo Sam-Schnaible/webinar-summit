@@ -1,7 +1,7 @@
 .info-container {
   z-index: 4;
   position: relative;
-  height: 500px;
+  height: 45vw;
   width: 100%;
   background: #3c3742;
   display: flex;
@@ -19,6 +19,6 @@
 }
 
 .info-content {
-  font-size: 30px;
+  font-size: max(2.5vw, 12px);
   line-height: 2;
 }
